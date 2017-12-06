@@ -29,7 +29,7 @@ app.get('/About', (req, res) => {
 });
 
 app.listen(port, () => {
-    console.log(`Server is started on  ${port}`);
+    console.log(`Server is started on the port  ${port}`);
 });
 
 
